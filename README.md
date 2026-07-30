@@ -1,9 +1,12 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/SandeepKoviri/SandeepKoviri/main/banner.png" width="100%">
+</p>
 # Hi 👋, I'm Sandeep Koviri
 
-### 🚀 Software Developer | Python Developer | Full Stack Developer | IoT & Embedded Systems | AWS Learner
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Developer;Python+Developer;Full+Stack+Developer;IoT+%26+Embedded+Systems+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
-
+### 🚀 Software Developer | Python Developer | Full Stack Developer | IoT & Embedded Systems | AWS Learner
 <img src="https://komarev.com/ghpvc/?username=SandeepKoviri&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
@@ -152,19 +155,12 @@ A complete blood donation management platform.
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SandeepKoviri&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em"
 src="https://github-readme-streak-stats-eight.vercel.app/?user=SandeepKoviri&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepKoviri&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
